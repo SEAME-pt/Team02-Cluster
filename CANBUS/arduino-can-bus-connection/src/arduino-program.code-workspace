@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Downloads/arduino-program"
+		},
+		{
+			"name": "arduino-can-bus-connection",
+			"path": ".."
+		},
+		{
+			"name": "receiver-can-bus",
+			"path": "../../receiver-can-bus"
+		}
+	],
+	"settings": {}
+}
