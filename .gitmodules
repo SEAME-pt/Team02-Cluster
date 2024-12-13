@@ -1,0 +1,6 @@
+[submodule "SpeedSensor/external/WiringPi"]
+	path = SpeedSensor/external/WiringPi
+	url = https://github.com/WiringPi/WiringPi.git
+[submodule "Arduino"]
+	path = Arduino
+	url = https://github.com/SEAME-pt/Arduino.git
